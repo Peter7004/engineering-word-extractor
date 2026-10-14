@@ -1,0 +1,49 @@
+term,meaning
+semiconductor,반도체
+wafer,웨이퍼
+silicon,실리콘
+substrate,기판
+photolithography,포토리소그래피
+lithography,리소그래피
+photoresist,포토레지스트
+exposure,노광
+development,현상
+mask,마스크
+alignment,정렬
+critical dimension,임계 치수
+etching,식각
+dry etching,건식 식각
+wet etching,습식 식각
+reactive ion etching,반응성 이온 식각
+plasma,플라스마
+selectivity,선택비
+anisotropy,이방성
+thin film,박막
+deposition,증착
+chemical vapor deposition,화학 기상 증착
+physical vapor deposition,물리 기상 증착
+atomic layer deposition,원자층 증착
+sputtering,스퍼터링
+epitaxy,에피택시
+oxidation,산화
+thermal oxidation,열 산화
+diffusion,확산
+dopant,도펀트
+doping,도핑
+annealing,어닐링
+ion implantation,이온주입
+implantation dose,이온주입량
+chemical mechanical planarization,화학적 기계적 평탄화
+cmp,화학적 기계적 평탄화
+slurry,슬러리
+polishing,연마
+cleaning,세정
+contamination,오염
+particle,입자
+yield,수율
+metrology,계측
+interconnect,배선
+dielectric,유전체
+gate oxide,게이트 산화막
+transistor,트랜지스터
+integrated circuit,집적회로

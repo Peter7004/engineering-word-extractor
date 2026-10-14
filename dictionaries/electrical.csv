@@ -1,0 +1,50 @@
+term,meaning
+voltage,전압
+current,전류
+resistance,저항
+impedance,임피던스
+capacitance,정전용량
+inductance,인덕턴스
+resistor,저항기
+capacitor,커패시터
+inductor,인덕터
+circuit,회로
+ohm's law,옴의 법칙
+kirchhoff's law,키르히호프의 법칙
+alternating current,교류
+direct current,직류
+electric field,전기장
+magnetic field,자기장
+magnetic flux,자속
+electromagnetic induction,전자기 유도
+permittivity,유전율
+permeability,투자율
+transformer,변압기
+generator,발전기
+motor,전동기
+induction motor,유도 전동기
+synchronous motor,동기 전동기
+power,전력
+power factor,역률
+power factor correction,역률 보정
+active power,유효 전력
+reactive power,무효 전력
+apparent power,피상 전력
+transmission line,송전선
+distribution,배전
+grounding,접지
+circuit breaker,차단기
+rectifier,정류기
+inverter,인버터
+converter,변환기
+pulse width modulation,펄스 폭 변조
+diode,다이오드
+transistor,트랜지스터
+semiconductor,반도체
+feedback,피드백
+transfer function,전달 함수
+stability,안정성
+closed loop,폐루프
+open loop,개루프
+pid controller,PID 제어기
+frequency response,주파수 응답
